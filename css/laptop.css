@@ -225,10 +225,6 @@ i {
 }
 
 /* design phần dự án */
-.myrow {
-  display: flex;
-  flex-wrap: nowrap;
-}
 #container-4-img {
   width: 100%;
   height: auto;
@@ -301,4 +297,8 @@ i {
 #footer-link {
   color: gray;
   font-size: large;
+}
+
+.w-fit {
+  width: fit-content;
 }
